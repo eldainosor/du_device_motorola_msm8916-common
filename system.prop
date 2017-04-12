@@ -142,3 +142,6 @@ ro.sys.fw.bservice_age=5000
 
 # Google Assistant
 ro.opa.eligible_device=true
+
+# Temp disable of MusicFX (bt issues)
+ro.musicfx.disabled=true
